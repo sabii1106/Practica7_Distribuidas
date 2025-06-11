@@ -1,0 +1,6 @@
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Protocolo\bin\Debug\Protocolo.dll
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Protocolo\bin\Debug\Protocolo.pdb
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Protocolo\obj\Debug\Protocolo.csproj.AssemblyReference.cache
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Protocolo\obj\Debug\Protocolo.csproj.CoreCompileInputs.cache
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Protocolo\obj\Debug\Protocolo.dll
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Protocolo\obj\Debug\Protocolo.pdb

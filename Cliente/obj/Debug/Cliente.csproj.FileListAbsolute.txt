@@ -1,0 +1,13 @@
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\bin\Debug\Cliente.exe
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\bin\Debug\Cliente.pdb
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\bin\Debug\Protocolo.dll
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\bin\Debug\Protocolo.pdb
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\obj\Debug\Cliente.FrmValidador.resources
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\obj\Debug\Cliente.csproj.Up2Date
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\obj\Debug\Cliente.exe
+C:\Users\FIEECEC\Source\Repos\AD_PA01_2024A\Cliente\obj\Debug\Cliente.pdb
